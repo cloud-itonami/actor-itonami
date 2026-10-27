@@ -1,6 +1,6 @@
 # Itonami actor — factory-operations observer
 
-Canonical repository: `etzhayyim/actor-itonami`.
+Canonical repository: `cloud-itonami/actor-itonami`.
 
 Itonami is an operations-observation organ of the Tamaki artificial organism. It
 computes station- and line-level diagnostics and improvement proposals; it is
